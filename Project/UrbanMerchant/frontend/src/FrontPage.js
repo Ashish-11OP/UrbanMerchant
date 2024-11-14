@@ -100,33 +100,6 @@ export default function FrontPage() {
 
         </div>
       </section>
-      <div class="skills">
-        < h2 class="skills__subtitle"> ABOUT THE DEVELOPERS </h2>
-        <p class="skills__text">This website is developed by the students of Malaviya National Institute of Technology</p>
-        <div class="skill-row1">
-          <img class="ab" src="https://i.ibb.co/2YCRsQC/1650754307128.jpg" alt="Aditya" />
-          <h3>Aditya Gupta</h3>
-          <p class="dev">Hey I am a sophomore at MNIT Jaipur Specializing in electronic and communication engineering Current and emerging technology is something I am passionate aboutPassionate about android App and Web Development ,   Apart from it, I also have knack for graphic and UI/UX design .	</p>
-        </div>
-        <div class="skill-row2">
-          <img class="bb" src="https://i.ibb.co/h8fVCKD/1650755487120.jpg" alt="Sahil" />
-          <h3>Sahil Jagwani</h3>
-          <p class="dev" >Heya! I am a tech enthusiast, a guy who is passionate about his goals and is always ready to push his limits to achieve them. I am interested in the domain of web development and has intermediate level knowledge of the MERN stack. I aim to work as a software development Engineer in a renowned firm.
-            .</p>
-
-        </div>
-        <div class="skill-row1">
-          <img class="ab" src="https://i.ibb.co/ZNRxRBG/1650756908789.jpggi" alt="Romil" />
-          <h3>Romil Modi</h3>
-          <p class="dev" >A resolute Undergrad right now studying in MNIT , Jaipur who is keen in knowing and learning about new technologies and software advancements having high enthusiasm and zeal to work in Tech indutry along the lines of fervent approach to multitask and handle pressure..</p>
-        </div>
-        <div class="skill-row2">
-          <img class="bb" src="https://i.ibb.co/wysV07d/1650755428346.jpg" alt="Vatsalya" />
-          <h3>Vatsalya Sagraya</h3>
-          <p class="dev">Hello! I am Vatsalya, a student at MNIT Jaipur pursuing Bachelor of Technology in Electronics and Communication Engineering. I am a Coding Enthusiast, a Web Developer and I am looking forward to build some more interesting and cool stuff in this field.</p>
-
-        </div>
-      </div>
       <footer id="footer_section" class="footer">
         <p class="footer__title">UrbanMerchant</p>
         <div class="footer__social">
